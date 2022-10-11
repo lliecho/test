@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T02:50:14.887Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="irgz-ruOxoKDIyJBLW6w" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-11T02:57:20.585Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="dteAqW4QBM6cEbT8i8qL" version="20.4.0" type="github">
   <diagram id="oTt76Smp9wc4GRq8-iBr" name="第 1 页">
     <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
         <mxCell id="SyAzOS2fpteDxxZ3ENVt-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="SyAzOS2fpteDxxZ3ENVt-24" target="SyAzOS2fpteDxxZ3ENVt-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SyAzOS2fpteDxxZ3ENVt-24" value="获取人员白名单接口" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SyAzOS2fpteDxxZ3ENVt-24" value="请求人员白名单接口" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="352" y="560" width="124" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SyAzOS2fpteDxxZ3ENVt-26" value="新增成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
@@ -64,7 +64,7 @@
         <mxCell id="SyAzOS2fpteDxxZ3ENVt-27" value="打印人员编码" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="354" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SyAzOS2fpteDxxZ3ENVt-29" value="打印" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="SyAzOS2fpteDxxZ3ENVt-29" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="410" y="640" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SyAzOS2fpteDxxZ3ENVt-31" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
