@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T03:28:24.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="bxdCy70euDRsnEPKC07u" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-11T03:48:53.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="dfZItllhenphUCMqt17C" version="20.4.0" type="github" pages="2">
   <diagram id="oTt76Smp9wc4GRq8-iBr" name="第 1 页">
     <mxGraphModel dx="2377" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -123,6 +123,23 @@
         </mxCell>
         <mxCell id="SyAzOS2fpteDxxZ3ENVt-51" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="406" y="764" width="60" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="XNTiwJd4ZMBeS2CpXGkK" name="第 2 页">
+    <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="J8HYTnzC1kdzGnpTbTxD-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="J8HYTnzC1kdzGnpTbTxD-2" target="J8HYTnzC1kdzGnpTbTxD-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J8HYTnzC1kdzGnpTbTxD-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;新增特殊人群&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="150" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J8HYTnzC1kdzGnpTbTxD-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;输入被检人姓名编码&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="343" y="290" width="185" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
