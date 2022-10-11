@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T06:58:06.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="qWxQeRDqerL4tggseicX" version="20.4.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-10-11T10:18:15.049Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="J-ZMb31jf10ggIi0SKLy" version="20.4.0" type="github" pages="5">
   <diagram id="oTt76Smp9wc4GRq8-iBr" name="新增被检人">
     <mxGraphModel dx="2377" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -359,11 +359,52 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="H61geJI86PhqvOZB2XUC" name="第 5 页">
-    <mxGraphModel dx="1550" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="H61geJI86PhqvOZB2XUC" name="扫码收样">
+    <mxGraphModel dx="1550" dy="779" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Lyy3ja4_BE_YqvtP8x42-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="Lyy3ja4_BE_YqvtP8x42-1" target="Lyy3ja4_BE_YqvtP8x42-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyy3ja4_BE_YqvtP8x42-1" value="扫码收样" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyy3ja4_BE_YqvtP8x42-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="Lyy3ja4_BE_YqvtP8x42-2" target="Lyy3ja4_BE_YqvtP8x42-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyy3ja4_BE_YqvtP8x42-2" value="是否扫码成功" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="150" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyy3ja4_BE_YqvtP8x42-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="Lyy3ja4_BE_YqvtP8x42-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lyy3ja4_BE_YqvtP8x42-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315" y="325" as="sourcePoint" />
+            <mxPoint x="200" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lyy3ja4_BE_YqvtP8x42-5" value="请求更新为已采样状态接口" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="290" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyy3ja4_BE_YqvtP8x42-7" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="398" y="232" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyy3ja4_BE_YqvtP8x42-10" value="结束" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="294" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyy3ja4_BE_YqvtP8x42-14" value="显示采样次数" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyy3ja4_BE_YqvtP8x42-15" value="已经上传过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="205" y="290" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyy3ja4_BE_YqvtP8x42-17" value="上传成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="389" y="364" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
