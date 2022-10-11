@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T06:11:28.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="FoWtkVIxgXP_X9Ar8l5t" version="20.4.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-11T06:44:46.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="CcVJkvvGrQ_lynj3zg7z" version="20.4.0" type="github" pages="4">
   <diagram id="oTt76Smp9wc4GRq8-iBr" name="新增被检人">
     <mxGraphModel dx="2377" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,8 +34,10 @@
         <mxCell id="SyAzOS2fpteDxxZ3ENVt-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="SyAzOS2fpteDxxZ3ENVt-17" target="SyAzOS2fpteDxxZ3ENVt-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SyAzOS2fpteDxxZ3ENVt-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="SyAzOS2fpteDxxZ3ENVt-17" target="SyAzOS2fpteDxxZ3ENVt-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="SyAzOS2fpteDxxZ3ENVt-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="SyAzOS2fpteDxxZ3ENVt-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="560" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="SyAzOS2fpteDxxZ3ENVt-17" value="请求新增被检人接口" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="321" y="420" width="186" height="60" as="geometry" />
@@ -52,11 +54,10 @@
         <mxCell id="SyAzOS2fpteDxxZ3ENVt-22" value="结束" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="578.5" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SyAzOS2fpteDxxZ3ENVt-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="SyAzOS2fpteDxxZ3ENVt-24" target="SyAzOS2fpteDxxZ3ENVt-27" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SyAzOS2fpteDxxZ3ENVt-24" value="判断是否通过人证核验" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="350" y="560" width="128" height="60" as="geometry" />
+        <mxCell id="SyAzOS2fpteDxxZ3ENVt-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" target="SyAzOS2fpteDxxZ3ENVt-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="620" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="SyAzOS2fpteDxxZ3ENVt-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -69,14 +70,14 @@
         </mxCell>
         <mxCell id="SyAzOS2fpteDxxZ3ENVt-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="SyAzOS2fpteDxxZ3ENVt-27" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="820" as="targetPoint" />
+            <mxPoint x="414" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SyAzOS2fpteDxxZ3ENVt-27" value="请求人员白名单接口" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="354" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SyAzOS2fpteDxxZ3ENVt-29" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="420" y="640" width="40" height="40" as="geometry" />
+          <mxGeometry x="408" y="678" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SyAzOS2fpteDxxZ3ENVt-31" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;fontSize=18;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -119,10 +120,13 @@
           <mxGeometry x="-25" y="650" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SyAzOS2fpteDxxZ3ENVt-49" value="请求更新核验状态接口" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="354" y="821" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SyAzOS2fpteDxxZ3ENVt-51" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="406" y="764" width="60" height="40" as="geometry" />
+          <mxGeometry x="407" y="800" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8YAgPfEf3cE6maks4udh-1" value="是否通过人证核验" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="324" y="561" width="180" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -311,7 +315,10 @@
         <mxCell id="T93COLVTUuqNFdGd-GHM-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=18;direction=south;" vertex="1" parent="1">
           <mxGeometry x="300" y="470" width="277.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T93COLVTUuqNFdGd-GHM-5" value="" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="zOs-hN-RD5BEwJ8xg_3K-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="T93COLVTUuqNFdGd-GHM-5" target="zOs-hN-RD5BEwJ8xg_3K-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T93COLVTUuqNFdGd-GHM-5" value="请求人员白名单接口" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="520" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_bqeHPSmakWK3SgZIRPf-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="U6zAXWroMhw4VnnHSqOJ-2" target="_bqeHPSmakWK3SgZIRPf-1">
@@ -345,6 +352,9 @@
         </mxCell>
         <mxCell id="F0whzbveFtAebAA8UZgV-1" value="请求成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="51" y="630" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zOs-hN-RD5BEwJ8xg_3K-1" value="请求更新核验状态接口" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
