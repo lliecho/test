@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T03:28:46.184Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="68kdne_WNskpm9ZiyWC4" version="20.4.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-10-25T03:44:19.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="vkdF069OgcmIe8vFVF1l" version="20.4.1" type="github" pages="6">
   <diagram id="oTt76Smp9wc4GRq8-iBr" name="新增被检人">
     <mxGraphModel dx="1550" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -420,14 +420,50 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dl95yQzW_MdQtYZ85cXZ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="dl95yQzW_MdQtYZ85cXZ-1" target="dl95yQzW_MdQtYZ85cXZ-2">
+        <mxCell id="dl95yQzW_MdQtYZ85cXZ-1" value="选择组织机构、工作站、检测原因、检测样本" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="150" y="40" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YHkej_VSKkEpTd9TQYXY-1" value="录入被检人姓名、证件号码、送检人" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="460" y="40" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YHkej_VSKkEpTd9TQYXY-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=18;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="300" y="120" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YHkej_VSKkEpTd9TQYXY-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="YHkej_VSKkEpTd9TQYXY-5" target="YHkej_VSKkEpTd9TQYXY-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dl95yQzW_MdQtYZ85cXZ-1" value="录入被检人信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="330" y="40" width="180" height="60" as="geometry" />
+        <mxCell id="YHkej_VSKkEpTd9TQYXY-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="YHkej_VSKkEpTd9TQYXY-5" target="YHkej_VSKkEpTd9TQYXY-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dl95yQzW_MdQtYZ85cXZ-2" value="" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="YHkej_VSKkEpTd9TQYXY-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="YHkej_VSKkEpTd9TQYXY-5" target="YHkej_VSKkEpTd9TQYXY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YHkej_VSKkEpTd9TQYXY-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="YHkej_VSKkEpTd9TQYXY-5" target="YHkej_VSKkEpTd9TQYXY-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YHkej_VSKkEpTd9TQYXY-5" value="请求新增可疑人员接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="350" y="200" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YHkej_VSKkEpTd9TQYXY-8" value="结束" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="205" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YHkej_VSKkEpTd9TQYXY-10" value="已存在" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="520" y="197" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YHkej_VSKkEpTd9TQYXY-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="YHkej_VSKkEpTd9TQYXY-11" target="YHkej_VSKkEpTd9TQYXY-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YHkej_VSKkEpTd9TQYXY-11" value="请求可疑人员列表接口" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YHkej_VSKkEpTd9TQYXY-13" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="424" y="269" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YHkej_VSKkEpTd9TQYXY-14" value="将被检人信息存储至本地数据库" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="442" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YHkej_VSKkEpTd9TQYXY-16" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="422" y="391" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
