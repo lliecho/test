@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T03:12:12.371Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="GnMGsMys82jCGz2_BqMj" version="20.4.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-10-25T03:19:35.615Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="GrG0sc3fNKhcXB75WlIm" version="20.4.1" type="github" pages="6">
   <diagram id="oTt76Smp9wc4GRq8-iBr" name="新增被检人">
     <mxGraphModel dx="1550" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -254,11 +254,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Y4MNeCff6gIpw1a2fzfa" name="核验记录(本人)">
-    <mxGraphModel dx="1550" dy="2004" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1550" dy="1948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ObzimNBOFyN-Lb8CGrEU-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="706kTjuj04190DcfPXrz-1" target="ObzimNBOFyN-Lb8CGrEU-1">
+        <mxCell id="ObzimNBOFyN-Lb8CGrEU-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="706kTjuj04190DcfPXrz-1" target="ObzimNBOFyN-Lb8CGrEU-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="706kTjuj04190DcfPXrz-1" value="核验记录(本人)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
@@ -293,55 +293,56 @@
         <mxCell id="706kTjuj04190DcfPXrz-13" value="删除" style="whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="560" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="706kTjuj04190DcfPXrz-16" value="核验成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="430" y="415" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="T93COLVTUuqNFdGd-GHM-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=18;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="300" y="470" width="277.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zOs-hN-RD5BEwJ8xg_3K-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="T93COLVTUuqNFdGd-GHM-5" target="zOs-hN-RD5BEwJ8xg_3K-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="T93COLVTUuqNFdGd-GHM-5" value="请求人员白名单接口" style="whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="520" y="530" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_bqeHPSmakWK3SgZIRPf-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="U6zAXWroMhw4VnnHSqOJ-2" target="_bqeHPSmakWK3SgZIRPf-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="W3G21YUBX4jacMZAidqr-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="U6zAXWroMhw4VnnHSqOJ-2" edge="1">
+        <mxCell id="zOs-hN-RD5BEwJ8xg_3K-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" target="zOs-hN-RD5BEwJ8xg_3K-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="580" as="targetPoint" />
+            <mxPoint x="580" y="590" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U6zAXWroMhw4VnnHSqOJ-2" value="是否有条码内容" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="204" y="530" width="190" height="100" as="geometry" />
+        <mxCell id="zOs-hN-RD5BEwJ8xg_3K-1" value="请求更新核验状态接口" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="603.5" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_bqeHPSmakWK3SgZIRPf-1" value="打印" style="whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="239" y="700" width="120" height="60" as="geometry" />
+        <mxCell id="ObzimNBOFyN-Lb8CGrEU-1" value="查询本地数据库检测记录" style="whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="290" y="51" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_bqeHPSmakWK3SgZIRPf-3" value="有" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="294" y="660" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="IHLU_FDWI3OeAAVSX1ag-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="W3G21YUBX4jacMZAidqr-1" target="IHLU_FDWI3OeAAVSX1ag-1" edge="1">
+        <mxCell id="uXu9taUGG6n9H7w4DeSt-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="LDsOAAb8JSAypfmhJ_k_-1" target="uXu9taUGG6n9H7w4DeSt-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="W3G21YUBX4jacMZAidqr-1" value="请求检测报告列表接口" style="whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry y="550" width="120" height="60" as="geometry" />
+        <mxCell id="uXu9taUGG6n9H7w4DeSt-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="LDsOAAb8JSAypfmhJ_k_-1" target="uXu9taUGG6n9H7w4DeSt-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="W3G21YUBX4jacMZAidqr-3" value="无" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="138" y="550" width="40" height="40" as="geometry" />
+        <mxCell id="uXu9taUGG6n9H7w4DeSt-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="LDsOAAb8JSAypfmhJ_k_-1" target="uXu9taUGG6n9H7w4DeSt-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IHLU_FDWI3OeAAVSX1ag-1" value="打印" style="whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry y="690" width="120" height="60" as="geometry" />
+        <mxCell id="LDsOAAb8JSAypfmhJ_k_-1" value="人证核验" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="380" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F0whzbveFtAebAA8UZgV-1" value="请求成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="51" y="630" width="100" height="40" as="geometry" />
+        <mxCell id="uXu9taUGG6n9H7w4DeSt-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="uXu9taUGG6n9H7w4DeSt-1" target="uXu9taUGG6n9H7w4DeSt-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zOs-hN-RD5BEwJ8xg_3K-1" value="请求更新核验状态接口" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="520" y="660" width="120" height="60" as="geometry" />
+        <mxCell id="uXu9taUGG6n9H7w4DeSt-1" value="请求检测报告列表接口" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="365" y="588" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ObzimNBOFyN-Lb8CGrEU-1" value="查询本地数据库检测记录" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="290" y="51" width="240" height="60" as="geometry" />
+        <mxCell id="uXu9taUGG6n9H7w4DeSt-3" value="核验成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="438" y="540" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uXu9taUGG6n9H7w4DeSt-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="uXu9taUGG6n9H7w4DeSt-4" target="uXu9taUGG6n9H7w4DeSt-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="618" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uXu9taUGG6n9H7w4DeSt-4" value="跳过人证核验" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="180" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uXu9taUGG6n9H7w4DeSt-7" value="结束" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="617" y="475" width="93" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uXu9taUGG6n9H7w4DeSt-9" value="核验失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="502" y="466" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uXu9taUGG6n9H7w4DeSt-15" value="是否通过人证核验" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="330" y="697" width="220" height="92" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
