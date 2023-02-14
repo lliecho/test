@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-14T08:46:10.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="8KmvJ8Thj59_puAZK2Rh" version="20.5.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-02-14T09:07:30.654Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="5V04cB29tBajusU4F5dq" version="20.5.1" type="github" pages="5">
   <diagram id="xFhZlersmDGYWYSMzei8" name="Page-1">
     <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -740,45 +740,121 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8X4lvY02H0cBQyJ96LYi" name="吸毒检测管理系统架构2">
-    <mxGraphModel dx="1550" dy="835" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1550" dy="869" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1JtoOtFJJqThCu_94i1F-1" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;fontFamily=Verdana;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="306" y="118" width="497" height="612" as="geometry" />
+          <mxGeometry x="144" y="118" width="958" height="854" as="geometry" />
         </mxCell>
         <mxCell id="1JtoOtFJJqThCu_94i1F-2" value="客户端" style="swimlane;startSize=20;fontFamily=Verdana;fontSize=18;" vertex="1" parent="1JtoOtFJJqThCu_94i1F-1">
-          <mxGeometry x="20" width="237" height="612" as="geometry" />
+          <mxGeometry x="20" width="237" height="854" as="geometry" />
         </mxCell>
         <mxCell id="8A2xKvAMdi62kvVB8Rhq-2" value="吸毒检测管理web前端" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" vertex="1" parent="1JtoOtFJJqThCu_94i1F-2">
           <mxGeometry x="44" y="63" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8A2xKvAMdi62kvVB8Rhq-3" value="&lt;span style=&quot;font-family: Helvetica;&quot;&gt;吸毒检测管理APP&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" vertex="1" parent="1JtoOtFJJqThCu_94i1F-2">
-          <mxGeometry x="44" y="135" width="120" height="60" as="geometry" />
+          <mxGeometry x="44" y="172" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8A2xKvAMdi62kvVB8Rhq-4" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;小程序&lt;/span&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" vertex="1" parent="1JtoOtFJJqThCu_94i1F-2">
-          <mxGeometry x="44" y="207" width="120" height="60" as="geometry" />
+          <mxGeometry x="44" y="287" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8A2xKvAMdi62kvVB8Rhq-5" value="BH1000" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" vertex="1" parent="1JtoOtFJJqThCu_94i1F-2">
-          <mxGeometry x="44" y="279" width="120" height="60" as="geometry" />
+          <mxGeometry x="44" y="397" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LDattF3EKW0VErRge-64-2" value="人证核验机" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" vertex="1" parent="1JtoOtFJJqThCu_94i1F-2">
-          <mxGeometry x="44" y="351" width="120" height="60" as="geometry" />
+          <mxGeometry x="44" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LDattF3EKW0VErRge-64-3" value="Gs pro毒检&lt;br&gt;设备" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" vertex="1" parent="1JtoOtFJJqThCu_94i1F-2">
-          <mxGeometry x="44" y="424" width="120" height="54" as="geometry" />
+          <mxGeometry x="44" y="620" width="120" height="54" as="geometry" />
         </mxCell>
         <mxCell id="SfVI2HF089sd5XSp8iRK-1" value="数据中心web前端" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" vertex="1" parent="1JtoOtFJJqThCu_94i1F-2">
-          <mxGeometry x="45" y="492" width="120" height="60" as="geometry" />
+          <mxGeometry x="44" y="724" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1JtoOtFJJqThCu_94i1F-3" value="服务端" style="swimlane;startSize=20;fontFamily=Verdana;fontSize=18;" vertex="1" parent="1JtoOtFJJqThCu_94i1F-1">
-          <mxGeometry x="257" width="120" height="612" as="geometry" />
+        <mxCell id="AyML0gdOqqIqZlmgKAHb-3" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=18;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1JtoOtFJJqThCu_94i1F-2" target="H8Ynwsrjx7xrA71OvYXE-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="169" y="89" as="sourcePoint" />
+            <mxPoint x="322" y="107" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1JtoOtFJJqThCu_94i1F-3" value="服务器端" style="swimlane;startSize=20;fontFamily=Verdana;fontSize=18;" vertex="1" parent="1JtoOtFJJqThCu_94i1F-1">
+          <mxGeometry x="257" width="355" height="854" as="geometry" />
+        </mxCell>
+        <mxCell id="H8Ynwsrjx7xrA71OvYXE-2" value="吸毒检测管理后台服务" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" vertex="1" parent="1JtoOtFJJqThCu_94i1F-3">
+          <mxGeometry x="115" y="114.5" width="136" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="UJc5CSosXn5bk7j8U4Ax-1" value="吸毒检测管理设备端后台服务" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" vertex="1" parent="1JtoOtFJJqThCu_94i1F-3">
+          <mxGeometry x="111.5" y="324" width="143.5" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="AyML0gdOqqIqZlmgKAHb-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=18;" edge="1" parent="1JtoOtFJJqThCu_94i1F-3" source="AyML0gdOqqIqZlmgKAHb-1" target="UJc5CSosXn5bk7j8U4Ax-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AyML0gdOqqIqZlmgKAHb-1" value="数据中心后台" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" vertex="1" parent="1JtoOtFJJqThCu_94i1F-3">
+          <mxGeometry x="111" y="485" width="143" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AyML0gdOqqIqZlmgKAHb-23" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=18;" edge="1" parent="1JtoOtFJJqThCu_94i1F-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="256" y="387" as="sourcePoint" />
+            <mxPoint x="535" y="327" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="255" y="387" />
+              <mxPoint x="535" y="387" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="1JtoOtFJJqThCu_94i1F-4" value="数据库" style="swimlane;startSize=20;fontFamily=Verdana;fontSize=18;" vertex="1" parent="1JtoOtFJJqThCu_94i1F-1">
-          <mxGeometry x="377" width="120" height="612" as="geometry" />
+          <mxGeometry x="612" width="346" height="854" as="geometry" />
+        </mxCell>
+        <mxCell id="AyML0gdOqqIqZlmgKAHb-16" value="数据存储" style="swimlane;fontFamily=Verdana;fontSize=18;" vertex="1" parent="1JtoOtFJJqThCu_94i1F-4">
+          <mxGeometry x="81" y="127" width="200" height="199" as="geometry" />
+        </mxCell>
+        <mxCell id="AyML0gdOqqIqZlmgKAHb-14" value="Mysql" style="shape=datastore;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" vertex="1" parent="AyML0gdOqqIqZlmgKAHb-16">
+          <mxGeometry x="108" y="58.5" width="63" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="AyML0gdOqqIqZlmgKAHb-15" value="Redis" style="shape=datastore;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" vertex="1" parent="AyML0gdOqqIqZlmgKAHb-16">
+          <mxGeometry x="36" y="60" width="63" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="AyML0gdOqqIqZlmgKAHb-17" value="数据存储" style="swimlane;fontFamily=Verdana;fontSize=18;" vertex="1" parent="1JtoOtFJJqThCu_94i1F-4">
+          <mxGeometry x="81" y="429" width="200" height="199" as="geometry" />
+        </mxCell>
+        <mxCell id="AyML0gdOqqIqZlmgKAHb-18" value="Mysql" style="shape=datastore;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" vertex="1" parent="AyML0gdOqqIqZlmgKAHb-17">
+          <mxGeometry x="108" y="58.5" width="63" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="AyML0gdOqqIqZlmgKAHb-19" value="Redis" style="shape=datastore;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" vertex="1" parent="AyML0gdOqqIqZlmgKAHb-17">
+          <mxGeometry x="36" y="60" width="63" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="AyML0gdOqqIqZlmgKAHb-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=18;" edge="1" parent="1JtoOtFJJqThCu_94i1F-1" source="8A2xKvAMdi62kvVB8Rhq-3" target="H8Ynwsrjx7xrA71OvYXE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AyML0gdOqqIqZlmgKAHb-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=18;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1JtoOtFJJqThCu_94i1F-1" source="8A2xKvAMdi62kvVB8Rhq-5" target="H8Ynwsrjx7xrA71OvYXE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AyML0gdOqqIqZlmgKAHb-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=18;entryX=0.007;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1JtoOtFJJqThCu_94i1F-1" source="LDattF3EKW0VErRge-64-2" target="H8Ynwsrjx7xrA71OvYXE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AyML0gdOqqIqZlmgKAHb-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=18;entryX=0.224;entryY=0.928;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1JtoOtFJJqThCu_94i1F-1" source="LDattF3EKW0VErRge-64-3" target="AyML0gdOqqIqZlmgKAHb-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="274" y="521" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AyML0gdOqqIqZlmgKAHb-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=18;" edge="1" parent="1JtoOtFJJqThCu_94i1F-1" source="SfVI2HF089sd5XSp8iRK-1" target="AyML0gdOqqIqZlmgKAHb-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AyML0gdOqqIqZlmgKAHb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=18;" edge="1" parent="1JtoOtFJJqThCu_94i1F-1" source="8A2xKvAMdi62kvVB8Rhq-4" target="H8Ynwsrjx7xrA71OvYXE-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1JtoOtFJJqThCu_94i1F-6" value="吸毒检测管理系统架构" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="308" y="81" width="214" height="30" as="geometry" />
+          <mxGeometry x="144" y="72" width="216" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="AyML0gdOqqIqZlmgKAHb-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=18;" edge="1" parent="1" source="AyML0gdOqqIqZlmgKAHb-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="837" y="653" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AyML0gdOqqIqZlmgKAHb-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=18;" edge="1" parent="1" source="H8Ynwsrjx7xrA71OvYXE-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="837" y="306" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
