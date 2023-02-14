@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-14T08:07:38.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Ep3GbXVmT0xUwifECdgs" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-14T08:26:39.737Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="JplTnTbe_L1os8a4HADo" version="20.5.1" type="github" pages="5">
   <diagram id="xFhZlersmDGYWYSMzei8" name="Page-1">
     <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -630,34 +630,114 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yRpMKjrWlDGfMRN6IWc7" name="吸毒检测管理系统架构">
-    <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1550" dy="835" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wW11B-0mewzzLRWWyLN7-1" value="web前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wW11B-0mewzzLRWWyLN7-1" value="吸毒检测管理web前端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="70" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wW11B-0mewzzLRWWyLN7-4" value="安卓APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wW11B-0mewzzLRWWyLN7-4" value="吸毒检测管理APP" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="70" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wW11B-0mewzzLRWWyLN7-5" value="小程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wW11B-0mewzzLRWWyLN7-5" value="小程序" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="70" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wW11B-0mewzzLRWWyLN7-6" value="BH1000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wW11B-0mewzzLRWWyLN7-6" value="BH1000" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="70" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wW11B-0mewzzLRWWyLN7-7" value="人证核验机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wW11B-0mewzzLRWWyLN7-7" value="人证核验机" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="70" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wW11B-0mewzzLRWWyLN7-9" value="Gs pro毒检设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wW11B-0mewzzLRWWyLN7-9" value="Gs pro毒检设备" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="70" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wW11B-0mewzzLRWWyLN7-10" value="吸毒检测管理后台服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="290" width="140" height="80" as="geometry" />
+        <mxCell id="65N-gDOdIpmg05iziuVn-2" value="Mysql 数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="729" y="333" width="69" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="wW11B-0mewzzLRWWyLN7-11" value="吸毒检测管理设备端后台服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="490" width="140" height="70" as="geometry" />
+        <mxCell id="65N-gDOdIpmg05iziuVn-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.013;entryY=0.643;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="750" as="sourcePoint" />
+            <mxPoint x="388.44000000000005" y="708.5799999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
+        <mxCell id="65N-gDOdIpmg05iziuVn-4" value="上传检测结果数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="225" y="693" width="119" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="65N-gDOdIpmg05iziuVn-5" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;吸毒检测管理&lt;br&gt;后台服务&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="380" y="243" width="171" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="65N-gDOdIpmg05iziuVn-6" value="吸毒检测管理设备端后台服务" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="389" y="414" width="162" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="65N-gDOdIpmg05iziuVn-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=18;" edge="1" parent="1" source="65N-gDOdIpmg05iziuVn-7" target="65N-gDOdIpmg05iziuVn-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="65N-gDOdIpmg05iziuVn-7" value="数据中心后台" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="396.5" y="650.5" width="146.5" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="65N-gDOdIpmg05iziuVn-10" value="Mysql 数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="738" y="644" width="69" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="65N-gDOdIpmg05iziuVn-13" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="546" y="702" as="sourcePoint" />
+            <mxPoint x="735" y="702" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="65N-gDOdIpmg05iziuVn-14" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="243" as="sourcePoint" />
+            <mxPoint x="378" y="288" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="65N-gDOdIpmg05iziuVn-15" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wW11B-0mewzzLRWWyLN7-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="360" as="sourcePoint" />
+            <mxPoint x="380" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="65N-gDOdIpmg05iziuVn-16" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=18;exitX=1.007;exitY=0.37;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wW11B-0mewzzLRWWyLN7-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="339" y="383" as="sourcePoint" />
+            <mxPoint x="389" y="333" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="65N-gDOdIpmg05iziuVn-17" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=18;" edge="1" parent="1" target="65N-gDOdIpmg05iziuVn-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="527" as="sourcePoint" />
+            <mxPoint x="240" y="477" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="65N-gDOdIpmg05iziuVn-18" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=18;entryX=0.199;entryY=0.93;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="65N-gDOdIpmg05iziuVn-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="635" as="sourcePoint" />
+            <mxPoint x="240" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="65N-gDOdIpmg05iziuVn-19" value="上传检测结果数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="477" y="594" width="112" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="65N-gDOdIpmg05iziuVn-20" value="数据存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="603" y="670" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="65N-gDOdIpmg05iziuVn-21" value="数据中心&lt;br&gt;web前端" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="70" y="819" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="65N-gDOdIpmg05iziuVn-22" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="65N-gDOdIpmg05iziuVn-21" target="65N-gDOdIpmg05iziuVn-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="860" as="sourcePoint" />
+            <mxPoint x="240" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8X4lvY02H0cBQyJ96LYi" name="吸毒检测管理系统架构2">
+    <mxGraphModel dx="1550" dy="835" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
