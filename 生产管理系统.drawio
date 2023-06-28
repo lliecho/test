@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T09:13:36.307Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="oFQYV-nxQnYzLRzOQMXr" version="21.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-28T09:15:43.125Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="mqwqLFjvAlf0vQWI2EAH" version="21.5.1" type="github" pages="3">
   <diagram name="第 1 页" id="fMipuzNQtu9X9_ya9-IH">
     <mxGraphModel dx="1570" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -175,6 +175,15 @@
         </mxCell>
         <mxCell id="nsghoDVKXwTAH5kkwgfJ-1" value="&lt;div style=&quot;box-sizing: border-box; width: 100%; background: rgb(228, 228, 228); padding: 2px; font-size: 16px;&quot;&gt;转发对象表&lt;/div&gt;&lt;table style=&quot;width: 100%; font-size: 16px;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody style=&quot;font-size: 16px;&quot;&gt;&lt;tr style=&quot;font-size: 16px;&quot;&gt;&lt;td style=&quot;font-size: 16px;&quot;&gt;对象名称&lt;/td&gt;&lt;td style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp;东华系统&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 16px;&quot;&gt;&lt;td style=&quot;font-size: 16px;&quot;&gt;对象IP&lt;/td&gt;&lt;td style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp;192.168.200.11:6799&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 16px;&quot;&gt;&lt;td style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;td style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="90" y="200" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="JJTc7ZtYNuPOUNSm3NTm-1" value="新增设备" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="440" y="134" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JJTc7ZtYNuPOUNSm3NTm-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="565" y="60" width="20" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="JJTc7ZtYNuPOUNSm3NTm-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;MID&lt;br&gt;&amp;nbsp;选择设备类型（设备类型表）&lt;br&gt;&amp;nbsp;出厂日期&lt;br&gt;&amp;nbsp;供应商&lt;br&gt;&amp;nbsp;转发对象（转发对象表）&lt;br&gt;&amp;nbsp;设备状态&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="595" y="70" width="240" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
