@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T09:41:43.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="4b15YjI85s9MRG3D9Iz5" version="21.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-28T09:45:11.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9WeOSHBRI0i8lWUEnFKC" version="21.5.1" type="github" pages="3">
   <diagram name="第 1 页" id="fMipuzNQtu9X9_ya9-IH">
     <mxGraphModel dx="1570" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -211,6 +211,9 @@
         </mxCell>
         <mxCell id="YPraDwrhCcnG4Xx7esuX-9" value="&amp;nbsp;从设备表选择" style="whiteSpace=wrap;html=1;align=left;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="735.5" y="506" width="117.5" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="6QxbArxM4AYiVCqo0Lou-1" value="&lt;div style=&quot;box-sizing: border-box; width: 100%; background: rgb(228, 228, 228); padding: 2px; font-size: 16px;&quot;&gt;用户表&lt;/div&gt;&lt;table style=&quot;width: 100%; font-size: 16px;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody style=&quot;font-size: 16px;&quot;&gt;&lt;tr style=&quot;font-size: 16px;&quot;&gt;&lt;td style=&quot;font-size: 16px;&quot;&gt;用户名&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;lw&lt;/td&gt;&lt;td style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 16px;&quot;&gt;&lt;td style=&quot;font-size: 16px;&quot;&gt;昵称&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 荔湾派出所&lt;/td&gt;&lt;td style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 16px;&quot;&gt;&lt;td style=&quot;font-size: 16px;&quot;&gt;密码&lt;/td&gt;&lt;td style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="90" y="370" width="180" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
