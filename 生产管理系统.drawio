@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T08:20:35.972Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="WBszm7ZvAoOrjnARZYZ7" version="21.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-28T08:21:44.093Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="XS_Do88SB2Eu4AiCTF4J" version="21.5.1" type="github" pages="3">
   <diagram name="第 1 页" id="fMipuzNQtu9X9_ya9-IH">
     <mxGraphModel dx="1570" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -157,11 +157,19 @@
           <mxGeometry x="755" y="114" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wM9rvaPdi-na9P2bSUKk-21" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;" vertex="1" parent="1">
-          <mxGeometry x="880" y="50" width="20" height="190" as="geometry" />
+          <mxGeometry x="880" y="40" width="20" height="210" as="geometry" />
         </mxCell>
         <mxCell id="wM9rvaPdi-na9P2bSUKk-22" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;试剂卡名称&lt;br&gt;&amp;nbsp;选择卡片类型（卡片类型表）&lt;br&gt;&amp;nbsp;批号&lt;br&gt;&amp;nbsp;生产日期&lt;br&gt;&amp;nbsp;有效期&lt;br&gt;&amp;nbsp;选择条码（条码表）&lt;br&gt;&amp;nbsp;选择样本（样本表）&lt;br&gt;&amp;nbsp;选择项目（项目类型表）&lt;br&gt;&amp;nbsp;录入标曲 （计算方式表）&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="910" y="50" width="240" height="190" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="E4c9iXwG-H_T9HpWVrc1" name="设备">
+    <mxGraphModel dx="1570" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
