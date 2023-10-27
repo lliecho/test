@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T04:02:48.845Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="JDbHTofGSMbsl_Ut0hzq" version="21.5.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-10-27T05:23:09.647Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="_haLnJpDe4MGnW9RkVqn" version="21.5.2" type="github" pages="6">
   <diagram id="xFhZlersmDGYWYSMzei8" name="Page-1">
     <mxGraphModel dx="1562" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -926,9 +926,9 @@
           <mxGeometry x="170" y="110" width="20" height="159" as="geometry" />
         </mxCell>
         <mxCell id="7TTti1ds3FhREqrgMF9D-21" value="设置数据转发" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="200" y="218" width="120" height="40" as="geometry" />
+          <mxGeometry x="200" y="219" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7TTti1ds3FhREqrgMF9D-26" value="创建试剂卡" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="7TTti1ds3FhREqrgMF9D-26" value="试剂卡" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="40" y="366" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7TTti1ds3FhREqrgMF9D-27" value="基本信息（试剂卡id、试剂卡名称、批号、有效期等）" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
@@ -957,6 +957,72 @@
         </mxCell>
         <mxCell id="7TTti1ds3FhREqrgMF9D-36" value="机构信息" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="566" y="114" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7TTti1ds3FhREqrgMF9D-37" value="数据转发" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="735" y="156.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7TTti1ds3FhREqrgMF9D-38" value="平台IP地址" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="892" y="189.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7TTti1ds3FhREqrgMF9D-40" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="865" y="122" width="20" height="125.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7TTti1ds3FhREqrgMF9D-41" value="平台名称" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="891" y="136.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7TTti1ds3FhREqrgMF9D-42" value="检测数据" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="745" y="339.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7TTti1ds3FhREqrgMF9D-43" value="数据详情" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="902" y="372.75" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7TTti1ds3FhREqrgMF9D-44" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="875" y="305.25" width="20" height="125.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7TTti1ds3FhREqrgMF9D-45" value="数据列表" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="901" y="319.75" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7TTti1ds3FhREqrgMF9D-46" value="样本类型" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="404" y="532" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7TTti1ds3FhREqrgMF9D-47" value="样本名称" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="561" y="512" width="119" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="7TTti1ds3FhREqrgMF9D-48" value="样本编码" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="561" y="567" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7TTti1ds3FhREqrgMF9D-49" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="534" y="502" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7TTti1ds3FhREqrgMF9D-50" value="服务管理" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="43.75" y="748" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7TTti1ds3FhREqrgMF9D-51" value="SIM卡管理（服务到期提醒）" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="200.75" y="704" width="268.5" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="7TTti1ds3FhREqrgMF9D-52" value="接口服务管理（服务到期提醒）" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="200.75" y="761" width="268.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7TTti1ds3FhREqrgMF9D-53" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="173.75" y="685" width="20" height="186" as="geometry" />
+        </mxCell>
+        <mxCell id="7TTti1ds3FhREqrgMF9D-54" value="云服务器管理（服务到期提醒）" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="200.75" y="816" width="269.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7TTti1ds3FhREqrgMF9D-55" value="用户管理" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="544" y="736" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7TTti1ds3FhREqrgMF9D-56" value="角色管理（试剂研发部、生产部、质量部）" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="701" y="692" width="268.5" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="7TTti1ds3FhREqrgMF9D-57" value="用户管理" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="701" y="749" width="268.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7TTti1ds3FhREqrgMF9D-58" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="674" y="673" width="20" height="186" as="geometry" />
+        </mxCell>
+        <mxCell id="7TTti1ds3FhREqrgMF9D-59" value="云服务器管理（服务到期提醒）" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="701" y="804" width="269.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
