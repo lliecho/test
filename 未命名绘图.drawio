@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T03:40:42.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="IGB67Nh1hQsR5aFkM4Vw" version="21.5.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-10-27T03:56:17.259Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="xMphrBD78UvUpSO7GQQv" version="21.5.2" type="github" pages="6">
   <diagram id="xFhZlersmDGYWYSMzei8" name="Page-1">
     <mxGraphModel dx="1562" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -900,57 +900,45 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Mut2YbRo3xG_b19VIUtl" name="生产管理系统">
-    <mxGraphModel dx="1562" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="830" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7TTti1ds3FhREqrgMF9D-1" value="机构管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="170" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="7TTti1ds3FhREqrgMF9D-7" value="注册设备" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="40" y="162" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7TTti1ds3FhREqrgMF9D-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="300" y="90" width="20" height="260" as="geometry" />
+        <mxCell id="7TTti1ds3FhREqrgMF9D-11" value="创建机构" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="410" y="154" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7TTti1ds3FhREqrgMF9D-3" value="创建机构" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="320" y="100" width="100" height="40" as="geometry" />
+        <mxCell id="7TTti1ds3FhREqrgMF9D-13" value="绑定设备" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="567" y="134" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7TTti1ds3FhREqrgMF9D-4" value="绑定设备" style="whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="320" y="160" width="100" height="40" as="geometry" />
+        <mxCell id="7TTti1ds3FhREqrgMF9D-15" value="添加机构用户" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="567" y="184" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7TTti1ds3FhREqrgMF9D-5" value="添加机构用户" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="320" y="220" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="7TTti1ds3FhREqrgMF9D-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7TTti1ds3FhREqrgMF9D-6" target="7TTti1ds3FhREqrgMF9D-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7TTti1ds3FhREqrgMF9D-6" value="设备管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7TTti1ds3FhREqrgMF9D-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7TTti1ds3FhREqrgMF9D-7" target="7TTti1ds3FhREqrgMF9D-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7TTti1ds3FhREqrgMF9D-7" value="在平台上注册设备" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7TTti1ds3FhREqrgMF9D-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7TTti1ds3FhREqrgMF9D-10" target="7TTti1ds3FhREqrgMF9D-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7TTti1ds3FhREqrgMF9D-10" value="机构管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="420" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7TTti1ds3FhREqrgMF9D-11" value="创建机构" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="420" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7TTti1ds3FhREqrgMF9D-13" value="绑定设备" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="400" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7TTti1ds3FhREqrgMF9D-15" value="添加机构用户" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="470" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7TTti1ds3FhREqrgMF9D-17" value="选择机构用户" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="7TTti1ds3FhREqrgMF9D-17" value="选择机构用户" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="200" y="142" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7TTti1ds3FhREqrgMF9D-19" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="690" y="390" width="20" height="120" as="geometry" />
+          <mxGeometry x="540" y="124" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7TTti1ds3FhREqrgMF9D-20" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="170" y="131" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7TTti1ds3FhREqrgMF9D-21" value="设置数据转发" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="200" y="192" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7TTti1ds3FhREqrgMF9D-26" value="创建试剂卡" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="40" y="366" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7TTti1ds3FhREqrgMF9D-27" value="基本信息（试剂卡id、试剂卡名称、批号、有效期等）" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="197" y="346" width="447" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7TTti1ds3FhREqrgMF9D-28" value="曲线信息" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="197" y="396" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7TTti1ds3FhREqrgMF9D-29" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="170" y="336" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
