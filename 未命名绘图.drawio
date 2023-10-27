@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T05:23:09.647Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="_haLnJpDe4MGnW9RkVqn" version="21.5.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-10-27T05:28:42.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="OxvmwY-l8-uUPdKhYnYh" version="21.5.2" type="github" pages="6">
   <diagram id="xFhZlersmDGYWYSMzei8" name="Page-1">
     <mxGraphModel dx="1562" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -916,7 +916,7 @@
         <mxCell id="7TTti1ds3FhREqrgMF9D-15" value="添加机构用户" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="567" y="217" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7TTti1ds3FhREqrgMF9D-17" value="选择机构用户" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="7TTti1ds3FhREqrgMF9D-17" value="选择操作员" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="200" y="171" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7TTti1ds3FhREqrgMF9D-19" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
@@ -1013,16 +1013,13 @@
           <mxGeometry x="544" y="736" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7TTti1ds3FhREqrgMF9D-56" value="角色管理（试剂研发部、生产部、质量部）" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="701" y="692" width="268.5" height="44" as="geometry" />
+          <mxGeometry x="701" y="719" width="374" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="7TTti1ds3FhREqrgMF9D-57" value="用户管理" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="701" y="749" width="268.5" height="40" as="geometry" />
+        <mxCell id="7TTti1ds3FhREqrgMF9D-57" value="用户管理（配置角色、权限）" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="701" y="775" width="268.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7TTti1ds3FhREqrgMF9D-58" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="674" y="673" width="20" height="186" as="geometry" />
-        </mxCell>
-        <mxCell id="7TTti1ds3FhREqrgMF9D-59" value="云服务器管理（服务到期提醒）" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="701" y="804" width="269.5" height="40" as="geometry" />
+          <mxGeometry x="673" y="701" width="20" height="127" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
