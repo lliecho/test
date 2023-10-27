@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T04:00:08.948Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ccFtfd8-3wzigN2uj5ka" version="21.5.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-10-27T04:02:48.845Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="JDbHTofGSMbsl_Ut0hzq" version="21.5.2" type="github" pages="6">
   <diagram id="xFhZlersmDGYWYSMzei8" name="Page-1">
     <mxGraphModel dx="1562" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -904,29 +904,29 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7TTti1ds3FhREqrgMF9D-7" value="注册设备" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="7TTti1ds3FhREqrgMF9D-7" value="设备" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="40" y="162" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7TTti1ds3FhREqrgMF9D-11" value="创建机构" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="7TTti1ds3FhREqrgMF9D-11" value="机构" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="410" y="154" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7TTti1ds3FhREqrgMF9D-13" value="绑定设备" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="567" y="134" width="120" height="40" as="geometry" />
+          <mxGeometry x="567" y="167" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7TTti1ds3FhREqrgMF9D-15" value="添加机构用户" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="567" y="184" width="120" height="40" as="geometry" />
+          <mxGeometry x="567" y="217" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7TTti1ds3FhREqrgMF9D-17" value="选择机构用户" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="200" y="142" width="120" height="40" as="geometry" />
+          <mxGeometry x="200" y="171" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7TTti1ds3FhREqrgMF9D-19" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="540" y="124" width="20" height="120" as="geometry" />
+          <mxGeometry x="540" y="97" width="20" height="180" as="geometry" />
         </mxCell>
         <mxCell id="7TTti1ds3FhREqrgMF9D-20" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="170" y="131" width="20" height="120" as="geometry" />
+          <mxGeometry x="170" y="110" width="20" height="159" as="geometry" />
         </mxCell>
         <mxCell id="7TTti1ds3FhREqrgMF9D-21" value="设置数据转发" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="200" y="192" width="120" height="40" as="geometry" />
+          <mxGeometry x="200" y="218" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7TTti1ds3FhREqrgMF9D-26" value="创建试剂卡" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="40" y="366" width="120" height="60" as="geometry" />
@@ -951,6 +951,12 @@
         </mxCell>
         <mxCell id="7TTti1ds3FhREqrgMF9D-33" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="170" y="513" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7TTti1ds3FhREqrgMF9D-35" value="设备信息" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="200" y="121" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7TTti1ds3FhREqrgMF9D-36" value="机构信息" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="566" y="114" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
