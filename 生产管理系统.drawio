@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T06:31:37.633Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="8nkZV3OkBgXLDMjQM2te" version="22.1.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-10T06:31:49.421Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zQiATOcnP5SPvOH2YQxx" version="22.1.0" type="github" pages="4">
   <diagram name="第 1 页" id="fMipuzNQtu9X9_ya9-IH">
     <mxGraphModel dx="1562" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -274,7 +274,7 @@
         <mxCell id="hTUroqk8jm9szWM2IjKy-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hTUroqk8jm9szWM2IjKy-16" target="hTUroqk8jm9szWM2IjKy-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hTUroqk8jm9szWM2IjKy-16" value="试剂卡id" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="hTUroqk8jm9szWM2IjKy-16" value="试剂卡 id" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="410" y="714" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hTUroqk8jm9szWM2IjKy-17" value="检测结果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
