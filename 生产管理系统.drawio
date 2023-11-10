@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T08:36:51.141Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ycFzAO02hDmVjgfX_xUG" version="22.1.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-11-10T08:39:09.985Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="5fki97rKlX7NHUI3cniM" version="22.1.0" type="github" pages="5">
   <diagram name="第 1 页" id="fMipuzNQtu9X9_ya9-IH">
     <mxGraphModel dx="1562" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -375,8 +375,8 @@
         <mxCell id="obHGZ_ieVO0AReZJbu-I-7" value="生产管理系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="298" y="80" width="162" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="obHGZ_ieVO0AReZJbu-I-8" value="1、录入设备信息&lt;br&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;2、录入机构信息，在机构上绑定设备和添加用户&lt;br&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;3、录入试剂卡信息，并提供给设备端下载试剂卡信息的接口&lt;br&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;3、设备端从系统下载检测试剂卡的信息，并在检测完成后，将检测数据上传到系统&lt;br&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;4、在系统查看检测数据信息，检测数据包含被检人信息、试剂卡id、设备软件版本和检测结果信息&lt;br&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;5、通过分析检测数据，可以知道此次检测使用的设备信息、试剂卡信息和软件版本信息，在检测数据异常&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 的情况下，方便问题的排查。&lt;br&gt;&lt;br&gt;6、将设备的软件文件上传到系统，并添加软件版本的描述，便于软件版本的管理。同时提供下载软件的功能，&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 方便生产部同事下载不同的软件版本验证功能。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="100" y="125" width="900" height="340" as="geometry" />
+        <mxCell id="obHGZ_ieVO0AReZJbu-I-8" value="1、录入设备信息&lt;br&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;2、录入机构信息，在机构上绑定设备和添加用户&lt;br&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;3、录入试剂卡信息，并提供给设备端下载试剂卡信息的接口&lt;br&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;3、设备端从系统下载检测试剂卡的信息，并在检测完成后，将检测数据上传到系统&lt;br&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;4、在系统查看检测数据信息，检测数据包含被检人信息、试剂卡id、设备软件版本和检测结果信息&lt;br&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;5、通过分析检测数据，可以知道此次检测使用的设备信息、试剂卡信息和软件版本信息，在检测数据异常&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 的情况下，方便问题的排查。&lt;br&gt;&lt;br&gt;6、将设备的软件文件上传到系统，并添加软件版本的描述，便于设备端软件版本的管理。同时提供下载软件的功能，&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 方便生产部同事下载不同的软件版本进行功能验证。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="100" y="125" width="950" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
