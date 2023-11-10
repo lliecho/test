@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T06:24:00.649Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="kKkXIkbN6lYVqj36Nrdm" version="22.1.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-10T06:31:37.633Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="8nkZV3OkBgXLDMjQM2te" version="22.1.0" type="github" pages="4">
   <diagram name="第 1 页" id="fMipuzNQtu9X9_ya9-IH">
     <mxGraphModel dx="1562" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -219,7 +219,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9fWdRqxfaH9lUgzNkUo6" name="专利">
-    <mxGraphModel dx="658" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -239,7 +239,7 @@
           <mxGeometry x="255" y="520" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hTUroqk8jm9szWM2IjKy-4" value="检测数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="255" y="665" width="110" height="40" as="geometry" />
+          <mxGeometry x="255" y="699" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hTUroqk8jm9szWM2IjKy-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="384" y="230" width="20" height="260" as="geometry" />
@@ -253,6 +253,9 @@
         <mxCell id="hTUroqk8jm9szWM2IjKy-8" value="硬件版本" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="410" y="340" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="hTUroqk8jm9szWM2IjKy-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hTUroqk8jm9szWM2IjKy-9" target="hTUroqk8jm9szWM2IjKy-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hTUroqk8jm9szWM2IjKy-9" value="软件版本" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="410" y="390" width="120" height="40" as="geometry" />
         </mxCell>
@@ -260,22 +263,22 @@
           <mxGeometry x="410" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hTUroqk8jm9szWM2IjKy-13" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="370" y="570" width="20" height="230" as="geometry" />
+          <mxGeometry x="370" y="604" width="20" height="230" as="geometry" />
         </mxCell>
         <mxCell id="hTUroqk8jm9szWM2IjKy-14" value="被检人信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="410" y="580" width="120" height="40" as="geometry" />
+          <mxGeometry x="410" y="614" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hTUroqk8jm9szWM2IjKy-15" value="设备id" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="410" y="630" width="120" height="40" as="geometry" />
+        <mxCell id="hTUroqk8jm9szWM2IjKy-15" value="设备MID" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="410" y="664" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hTUroqk8jm9szWM2IjKy-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hTUroqk8jm9szWM2IjKy-16" target="hTUroqk8jm9szWM2IjKy-28">
+        <mxCell id="hTUroqk8jm9szWM2IjKy-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hTUroqk8jm9szWM2IjKy-16" target="hTUroqk8jm9szWM2IjKy-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hTUroqk8jm9szWM2IjKy-16" value="试剂卡id" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="410" y="680" width="120" height="40" as="geometry" />
+          <mxGeometry x="410" y="714" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hTUroqk8jm9szWM2IjKy-17" value="检测结果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="410" y="730" width="120" height="40" as="geometry" />
+          <mxGeometry x="410" y="764" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hTUroqk8jm9szWM2IjKy-25" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="375" y="60" width="20" height="120" as="geometry" />
@@ -287,64 +290,79 @@
           <mxGeometry x="404" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hTUroqk8jm9szWM2IjKy-28" value="试剂卡管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="640" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="641" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hTUroqk8jm9szWM2IjKy-29" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="764" y="485" width="20" height="430" as="geometry" />
+          <mxGeometry x="764" y="529" width="20" height="610" as="geometry" />
         </mxCell>
         <mxCell id="hTUroqk8jm9szWM2IjKy-30" value="基本信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="795" y="525" width="150" height="40" as="geometry" />
+          <mxGeometry x="794" y="659" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hTUroqk8jm9szWM2IjKy-31" value="曲线信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="795" y="920" width="120" height="40" as="geometry" />
+          <mxGeometry x="795" y="1059" width="145" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hTUroqk8jm9szWM2IjKy-34" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="924" y="831" width="20" height="216" as="geometry" />
+          <mxGeometry x="948" y="970" width="20" height="216" as="geometry" />
         </mxCell>
         <mxCell id="hTUroqk8jm9szWM2IjKy-35" value="适用设备" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="950" y="844" width="120" height="40" as="geometry" />
+          <mxGeometry x="974" y="983" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hTUroqk8jm9szWM2IjKy-36" value="T、C位置信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="950" y="894" width="120" height="40" as="geometry" />
+          <mxGeometry x="974" y="1033" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hTUroqk8jm9szWM2IjKy-37" value="校准曲线" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="950" y="944" width="120" height="40" as="geometry" />
+          <mxGeometry x="974" y="1083" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hTUroqk8jm9szWM2IjKy-38" value="计算方式" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="950" y="994" width="120" height="40" as="geometry" />
+          <mxGeometry x="974" y="1133" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hTUroqk8jm9szWM2IjKy-45" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="949" y="485" width="20" height="120" as="geometry" />
+          <mxGeometry x="949" y="429" width="20" height="510" as="geometry" />
         </mxCell>
         <mxCell id="hTUroqk8jm9szWM2IjKy-46" value="试剂卡 id" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="978" y="495" width="120" height="40" as="geometry" />
+          <mxGeometry x="969" y="439" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hTUroqk8jm9szWM2IjKy-47" value="试剂卡名称" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="978" y="545" width="120" height="40" as="geometry" />
+          <mxGeometry x="969" y="489" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hTUroqk8jm9szWM2IjKy-62" value="试剂卡类型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="988" y="596" width="120" height="40" as="geometry" />
+          <mxGeometry x="969" y="539" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hTUroqk8jm9szWM2IjKy-63" value="试剂卡批号" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="988" y="646" width="120" height="40" as="geometry" />
+          <mxGeometry x="969" y="589" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hTUroqk8jm9szWM2IjKy-64" value="有效期" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="998" y="696" width="120" height="40" as="geometry" />
+          <mxGeometry x="969" y="639" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hTUroqk8jm9szWM2IjKy-65" value="样本类型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="998" y="746" width="120" height="40" as="geometry" />
+          <mxGeometry x="969" y="689" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hTUroqk8jm9szWM2IjKy-66" value="检测项目" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="794" width="120" height="40" as="geometry" />
+          <mxGeometry x="969" y="739" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hTUroqk8jm9szWM2IjKy-67" value="检测方法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="844" width="120" height="40" as="geometry" />
+          <mxGeometry x="969" y="789" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hTUroqk8jm9szWM2IjKy-68" value="适用设备" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="894" width="120" height="40" as="geometry" />
+          <mxGeometry x="970" y="839" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hTUroqk8jm9szWM2IjKy-69" value="条码号" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="944" width="120" height="40" as="geometry" />
+          <mxGeometry x="969" y="889" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hTUroqk8jm9szWM2IjKy-71" value="软件管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="633" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hTUroqk8jm9szWM2IjKy-73" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="759" y="174" width="20" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="hTUroqk8jm9szWM2IjKy-75" value="软件信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="784" y="186" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hTUroqk8jm9szWM2IjKy-76" value="上传软件文件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="784" y="236" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hTUroqk8jm9szWM2IjKy-77" value="下载软件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="784" y="286" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
