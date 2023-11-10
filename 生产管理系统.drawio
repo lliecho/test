@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T06:23:05.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="YcvXq47K7-rp9KdmDKm0" version="22.1.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-10T06:24:00.649Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="kKkXIkbN6lYVqj36Nrdm" version="22.1.0" type="github" pages="4">
   <diagram name="第 1 页" id="fMipuzNQtu9X9_ya9-IH">
     <mxGraphModel dx="1562" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -301,7 +301,7 @@
         <mxCell id="hTUroqk8jm9szWM2IjKy-34" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="924" y="831" width="20" height="216" as="geometry" />
         </mxCell>
-        <mxCell id="hTUroqk8jm9szWM2IjKy-35" value="使用设备" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="hTUroqk8jm9szWM2IjKy-35" value="适用设备" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="950" y="844" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hTUroqk8jm9szWM2IjKy-36" value="T、C位置信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
@@ -333,6 +333,18 @@
         </mxCell>
         <mxCell id="hTUroqk8jm9szWM2IjKy-65" value="样本类型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="998" y="746" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hTUroqk8jm9szWM2IjKy-66" value="检测项目" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="794" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hTUroqk8jm9szWM2IjKy-67" value="检测方法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="844" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hTUroqk8jm9szWM2IjKy-68" value="适用设备" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="894" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hTUroqk8jm9szWM2IjKy-69" value="条码号" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="944" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
